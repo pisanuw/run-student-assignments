@@ -1,0 +1,17 @@
+{
+  "assignment": {
+    "name": "Reinforcement",
+    "assignments_dir": "assignments/re",
+    "framework_dir": "frameworks/reinforcement",
+    "results_file": "results/re_results.json",
+    "timeout": 60,
+    "submission_type": "zip",
+    "submission_files": ["valueIterationAgents.py", "qlearningAgents.py", "analysis.py"]
+  },
+  "canvas": {
+    "server": "https://canvas.uw.edu",
+    "course_id": "1902104",
+    "assignment_id": "11224140",
+    "token_file": "~/local/bin/token-canvas.txt"
+  }
+}

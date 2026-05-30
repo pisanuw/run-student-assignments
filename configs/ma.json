@@ -1,0 +1,17 @@
+{
+  "assignment": {
+    "name": "Multiagent",
+    "assignments_dir": "assignments/ma",
+    "framework_dir": "frameworks/multiagent",
+    "results_file": "results/ma_results.json",
+    "timeout": 60,
+    "submission_type": "single_file",
+    "target_file": "multiAgents.py"
+  },
+  "canvas": {
+    "server": "https://canvas.uw.edu",
+    "course_id": "1902104",
+    "assignment_id": "11224139",
+    "token_file": "~/local/bin/token-canvas.txt"
+  }
+}
